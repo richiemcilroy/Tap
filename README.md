@@ -1,7 +1,7 @@
 # Tap is a blazing fast, GPUI powered note taking app. 
 
 ### Why?
-This is a Cap team internal hackathon project. We wanted to experiment with GPUI, so this is what I chose to build.
+This is a [Cap](https://cap.so/) team internal hackathon project. We wanted to experiment with GPUI, so this is what I chose to build.
 
 ## How is it fast?
 
