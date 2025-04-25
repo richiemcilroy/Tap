@@ -3,7 +3,7 @@
 ### Why?
 This is a [Cap](https://cap.so/) team internal hackathon project. We wanted to experiment with GPUI, so this is what I chose to build.
 
-## How is it fast?
+### How is it fast?
 
 [**GPUI**](https://www.gpui.rs/) is a minimalist Rust UI layer that talks straight to `wgpu`, so every pixel is drawn by your graphics card instead of the CPU.
 
