@@ -11,6 +11,4 @@ This is a [Cap](https://cap.so/) team internal hackathon project. We wanted to e
 * 🔋 Lower battery / CPU burn
 * 🪶 Tiny footprint — a native Rust binary (a few MB) instead of a 200 MB Electron bundle.
 
-No hidden browser, no heavyweight framework—just Rust, `wgpu`, and your GPU doing what it does best.
-
-Imagine this text editor as more of a game instead of an app.
+No hidden browser, no heavyweight framework. Just Rust, `wgpu`, and your GPU doing what it does best.
