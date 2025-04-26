@@ -1,0 +1,20 @@
+[package]
+name = "tap"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.98"
+directories = "6.0.0"
+gpui = { git = "https://github.com/zed-industries/zed" }
+rusqlite = { version = "0.30.0", features = ["bundled"] }
+serde = { version = "1.0", features = ["derive"] }
+unicode-segmentation = "1.12.0"
+uuid = { version = "1.6.1", features = ["v4", "serde"] }
+serde_json = "1.0.140"
+objc = "0.2.7"
+cocoa = "0.24.1"
+core-foundation = "0.9.3"
+block = "0.1.6"
+lazy_static = "1.5.0"
+dirs = "6.0.0"
