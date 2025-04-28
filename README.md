@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/cee48891-0876-487c-98c7-895f943ff292
 - [ ] Search
 - [ ] Settings modal (theme toggle & font size)  
 
-### How to run
+## How to run
 
 ```bash
 # Install rust (if you don’t have it)
