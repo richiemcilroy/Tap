@@ -17,8 +17,6 @@ _No hidden browser, no heavyweight framework. Just Rust, `wgpu`, and your GPU do
 
 https://github.com/user-attachments/assets/cee48891-0876-487c-98c7-895f943ff292
 
-
-
 ## Features
 
 - [x] Use **SQLite** for local storage  
@@ -26,3 +24,16 @@ https://github.com/user-attachments/assets/cee48891-0876-487c-98c7-895f943ff292
 - [ ] Basic rich-text formatting (bold, italics, code)  
 - [ ] Search
 - [ ] Settings modal (theme toggle & font size)  
+
+### How to run
+
+```bash
+# Install rust (if you don’t have it)
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+# Grab the code
+git clone https://github.com/richiemcilroy/Tap.git
+cd Tap
+
+# Start the app
+cargo run            # Add --release for an optimised build
