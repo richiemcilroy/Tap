@@ -12,6 +12,13 @@ This is a [Cap](https://cap.so/) team internal hackathon project. We wanted to e
 
 _No hidden browser, no heavyweight framework. Just Rust, `wgpu`, and your GPU doing what it does best._
 
+## Demo
+
+
+https://github.com/user-attachments/assets/cee48891-0876-487c-98c7-895f943ff292
+
+
+
 ## Features
 
 - [x] Use **SQLite** for local storage  
